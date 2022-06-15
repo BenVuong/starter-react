@@ -11,6 +11,7 @@
   
   .expense-item__description {
     display: flex;
+    font-size: medium;
     flex-direction: column;
     gap: 1rem;
     align-items: flex-end;
@@ -43,6 +44,7 @@
       align-items: center;
       justify-content: flex-start;
       flex: 1;
+      font-size: medium;
     }
   
     .expense-item__description h2 {
